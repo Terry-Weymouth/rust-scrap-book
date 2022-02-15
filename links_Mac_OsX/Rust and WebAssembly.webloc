@@ -3,6 +3,6 @@
 <plist version="1.0">
 <dict>
 	<key>URL</key>
-	<string>https://rustwasm.github.io/book/introduction.html</string>
+	<string>https://rustwasm.github.io/docs/book/</string>
 </dict>
 </plist>
